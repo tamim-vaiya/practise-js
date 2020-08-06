@@ -3,4 +3,4 @@ function random(n){
   return randomNumber;
 }
 var result = random(6);
-console.log(result);
+console.log(result)
